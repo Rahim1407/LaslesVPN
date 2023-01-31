@@ -18,7 +18,7 @@ function Layout() {
                 </div>
                 {/* div 2 */}
                 <div className='w-[50%] flex justify-evenly text-[#4F5665] max-[540px]:w-[50%] '>
-                    <a href="#about" className='hover:border-b-[1px] hover:border-b-[black] max-[540px]:text-[.7em] hover:border-b-[solid] '>Rahim Shokirov</a>
+                    <a href="#about" className='hover:border-b-[1px] hover:border-b-[black] max-[540px]:text-[.7em] hover:border-b-[solid] '>About</a>
                     <a href="#features" className='hover:border-b-[1px] hover:border-b-[black] max-[540px]:text-[.7em] hover:border-b-[solid] '>Features</a>
                     <a href="#pricing" className='hover:border-b-[1px] hover:border-b-[black] max-[540px]:text-[.7em] hover:border-b-[solid] '>Pricing</a>
                     <a href="#testimonials" className='hover:border-b-[1px] hover:border-b-[black] max-[540px]:text-[.7em] hover:border-b-[solid] '>Testimonials</a>
