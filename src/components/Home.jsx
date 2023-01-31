@@ -26,7 +26,7 @@ function Home() {
     return (
         <div><br /><br />
             {/* Section 1 - Want anything to be easy with LaslesVPN. */}
-            {/* <div id='about' className='w-[85%] m-auto flex flex-wrap '>
+            <div id='about' className='w-[85%] m-auto flex flex-wrap '>
                 <div className='w-[50%] m-auto max-[540px]:w-[80%] max-[540px]:text-center '>
                     <h1 className='text-[#0B132A] text-[50px] font-medium '>Want anything to be easy with <span className='font-bold '>LaslesVPN.</span></h1>
                     <br />
@@ -39,7 +39,7 @@ function Home() {
                 <div className='w-[50%] max-[540px]:w-[80%] m-auto '>
                     <img src={section1} alt="section1" />
                 </div>
-            </div> */}
+            </div>
             <br /><br />
             <br /><br />
             {/* Section 2 – 90+ - Users, 30+ - Locations, 50+ - Servers */}
